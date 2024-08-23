@@ -4,7 +4,7 @@ package pkg;
  */
 public class X {
     /**
-     * Does something.
+     *something happens.
      */
     public void someMethod() {}
 }
